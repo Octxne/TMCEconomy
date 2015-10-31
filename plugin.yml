@@ -1,0 +1,5 @@
+name: TMCEconomy
+version: 0.1
+main: me.octxne.tmcecomomy.core.TMCEcomomy
+author: Octxne
+description: TMCEconomy is an economy plugin developed by Octxne for a server called TMCNetwork.
